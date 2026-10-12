@@ -9,17 +9,18 @@ My background is in Islamic finance (Syariah and Muamalat Management, Universiti
 - Excel: data cleaning, formulas, Pivot Tables, dashboards
 - Power BI: data modelling and interactive dashboards
 - Python: data analysis with pandas
-- Certification: PeopleCert Data Science (Foundation and Data Analyst)
+- Certification: PeopleCert Data Science Foundation and Data Science Analyst
 
 ## Projects
 
 | Project | Tools | Summary |
 |---|---|---|
 | [Superstore Sales Analysis](https://github.com/Mumtazah01/superstore-sales-analysis) | Excel | Found discounts of 30% or more drive losses across 9,993 orders. Recommended a 20% discount cap. |
-| Project 2 (in progress) | Power BI | Malaysia open data analysis |
+| [Cost of Basic Groceries in Malaysia](https://github.com/Mumtazah01/price-catcher-analysis) | Power BI | Analysed 5 million government price records. A basket of 9 basic goods costs 6.6% more in Putrajaya than average, and 6.9% more at wet markets than hypermarkets. |
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/nur-mumtazah](https://www.linkedin.com/in/nur-mumtazah/)
-- Email: [nurmumtazah88@gmail.com]
+- Email: [nurmumtazah88@gmail.com](mailto:nurmumtazah88@gmail.com)
+
 
